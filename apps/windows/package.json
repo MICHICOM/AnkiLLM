@@ -1,6 +1,6 @@
 {
   "name": "@ankillm/windows",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AnkiLLM Desktop App",
   "main": "main.js",
   "author": "MICHICOM",
@@ -22,7 +22,7 @@
     "publish": {
       "provider": "github",
       "owner": "MICHICOM",
-      "repo": "AnkiLLM"
+      "repo": "SuguAnki"
     },
     "appId": "com.michi.ankillm",
     "productName": "AnkiLLM",
